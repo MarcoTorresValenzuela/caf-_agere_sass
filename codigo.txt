@@ -1,0 +1,7 @@
+@instalar sass
+npm install -g sass
+
+
+@sirve para correr sass automatico en la shell
+sass --watch assets/sass/main.scss:asset
+s/css/styles.css
